@@ -4,5 +4,5 @@
 .. autosummary::
    :toctree: generated
 
-   lumache
+   kasper
 ```
