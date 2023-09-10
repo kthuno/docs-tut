@@ -1,7 +1,7 @@
 Testing ReadTheDocs
 ===================================
 
-It seems promising.
+It seems promising...
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
