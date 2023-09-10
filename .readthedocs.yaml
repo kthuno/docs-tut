@@ -2,8 +2,8 @@ version: "2"
 
 build:
   os: "ubuntu-22.04"
-  tools:
-   - make html
+  commands: 
+   - javadoc -d docs/api java_code
 
 sphinx:
   fail_on_warning: true
