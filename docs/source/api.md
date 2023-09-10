@@ -4,5 +4,5 @@
 .. autosummary::
    :toctree: generated
 
-   javadoc/index
+   java_code/kasper
 ```
