@@ -14,6 +14,5 @@ This project is under active development.
 ```{toctree}
 usage
 api
-test
 kat
 ```
