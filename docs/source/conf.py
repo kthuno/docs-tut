@@ -18,7 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.viewcode',
-    'myst_parser'
+    'myst_parser',
+    'javasphinx'
 ]
 
 source_suffix = ['.rst', '.md']
