@@ -17,9 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'myst_parser',
     'sphinx.ext.viewcode',
     'sphinxcontrib.java_domain',
+    'myst_parser'
 ]
 
 java_package_path = 'java_code'
