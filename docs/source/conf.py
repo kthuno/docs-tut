@@ -17,8 +17,12 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'myst_parser'
+    'myst_parser',
+    'sphinx.ext.viewcode',
+    'sphinxcontrib.java_domain',
 ]
+
+java_package_path = 'java_code'
 
 source_suffix = ['.rst', '.md']
 
