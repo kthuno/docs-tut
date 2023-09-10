@@ -21,8 +21,6 @@ extensions = [
     'myst_parser'
 ]
 
-java_package_path = 'java_code'
-
 source_suffix = ['.rst', '.md']
 
 intersphinx_mapping = {
@@ -39,3 +37,5 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+java_package_path = 'java_code'
