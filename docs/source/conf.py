@@ -38,4 +38,4 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-java_package_path = 'java_code'
+java_package_path = 'java_code' 
